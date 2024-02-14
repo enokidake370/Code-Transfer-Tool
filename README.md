@@ -1,1 +1,3 @@
-# Yuta-Homebrew-Apps
+# コード転送ツール
+
+このソフトは、TCPGeckoから、SDからのコードを抜いたものです。
